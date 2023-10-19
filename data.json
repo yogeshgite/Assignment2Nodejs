@@ -1,0 +1,63 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "salary": 80000
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Data Scientist",
+        "salary": 90000
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "position": "UX Designer",
+        "salary": 75000
+      },
+      {
+        "id": 4,
+        "name": "Alice Brown",
+        "position": "Product Manager",
+        "salary": 100000
+      },
+      {
+        "id": 5,
+        "name": "David Wilson",
+        "position": "QA Engineer",
+        "salary": 70000
+      }
+    ],
+    "products": [
+      {
+        "id": 101,
+        "name": "Laptop",
+        "price": 1200
+      },
+      {
+        "id": 102,
+        "name": "Smartphone",
+        "price": 800
+      },
+      {
+        "id": 103,
+        "name": "Tablet",
+        "price": 500
+      },
+      {
+        "id": 104,
+        "name": "Desktop PC",
+        "price": 1500
+      },
+      {
+        "id": 105,
+        "name": "Headphones",
+        "price": 100
+      }
+    ]
+ }
+
+  
